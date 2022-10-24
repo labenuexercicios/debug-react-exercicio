@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const LayoutCardPequeno = styled.section`
         display: flex;
@@ -18,6 +18,6 @@ export const InfosCardPequeno = styled.section`
     align-items: center;
 `
 
-const TituloCardPequeno = styled.h4`
+export const TituloCardPequeno = styled.h4`
     margin-right: 10px;
 `
