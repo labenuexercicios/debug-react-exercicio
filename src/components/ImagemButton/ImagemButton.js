@@ -1,5 +1,5 @@
 import React from 'react';
-// import './ImagemButton.css'
+import './ImagemButton' 
 import styled from 'styled-components'
 
 function ImagemButton(props) {
