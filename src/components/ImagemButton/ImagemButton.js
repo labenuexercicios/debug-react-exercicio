@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 function ImagemButton(props) {
 
-    const ContainerImagemVerMais = styled.div`
+    const ContainerImagemVerMais = styled.section`
     display: flex;
     align-items: center;
     border: 1px solid black;
